@@ -31,3 +31,6 @@ assets_compressed.php
 # ignore temporary files
 *~
 *-local.php
+
+# ignore vendor
+vendor
